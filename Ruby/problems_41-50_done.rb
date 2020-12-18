@@ -73,7 +73,7 @@ end
 
 # Problem #42: Coded triangle numbers
 def triangal_words()
-	contents = File.open('./words_p42.txt', 'rb').read.gsub('"', '').gsub(' ', '').upcase.split(',')
+	contents = File.open('../words_p42.txt', 'rb').read.gsub('"', '').gsub(' ', '').upcase.split(',')
 
 	triang = contents.select{ |word| 
 		is_triangular(word.bytes.inject(0){ |sum, char| sum + char - 64 })
