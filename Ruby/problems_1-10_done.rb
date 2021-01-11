@@ -68,7 +68,7 @@ end
 def largest_palindrome(num_of_digits)
 	runner_1 = runner_2 = ('9'*num_of_digits).to_i
 	min_min = ('1' + '0'*(num_of_digits-1)).to_i
-	min = (runner_1 + min_min) / 3 * 2
+    min = (runner_1 + min_min) / 3 * 2      # Optimization
 	list = []
 #	puts runner_2
 #	puts min
@@ -102,7 +102,7 @@ def smallest_multiple_of_list(max_num)
 			test_list << num
 		else
 			# Try to divide not prime numbers on every 
-			# numer in the list -- add waht is left
+			# numer in the list -- add what is left
 			runner = num
 			test_list.each{ |p_num|
 				runner /= p_num if(runner % p_num == 0)
