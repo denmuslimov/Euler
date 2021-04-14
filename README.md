@@ -15,12 +15,12 @@ Solving [Project Euler](https://projecteuler.net/) problems in different languag
 | [8](https://projecteuler.net/problem=8) | :heavy_check_mark: | :heavy_check_mark: |
 | [9](https://projecteuler.net/problem=9) | :heavy_check_mark: | :heavy_check_mark: |
 | [10](https://projecteuler.net/problem=10) | :heavy_check_mark: | :heavy_check_mark: |
-| [11](https://projecteuler.net/problem=11) | :heavy_check_mark: |  |
-| [12](https://projecteuler.net/problem=12) | :heavy_check_mark: |  |
+| [11](https://projecteuler.net/problem=11) | :heavy_check_mark: | :heavy_check_mark: |
+| [12](https://projecteuler.net/problem=12) | :heavy_check_mark: | :heavy_check_mark: |
 | [13](https://projecteuler.net/problem=13) | :heavy_check_mark: |  |
 | [14](https://projecteuler.net/problem=14) | :heavy_check_mark: |  |
-| [15](https://projecteuler.net/problem=15) |  |  |
-| [16](https://projecteuler.net/problem=16) |  |  |
+| [15](https://projecteuler.net/problem=15) |  | :heavy_check_mark: |
+| [16](https://projecteuler.net/problem=16) |  | :heavy_check_mark: |
 | [17](https://projecteuler.net/problem=17) |  |  |
 | [18](https://projecteuler.net/problem=18) |  |  |
 | [19](https://projecteuler.net/problem=19) | :heavy_check_mark: |  |
