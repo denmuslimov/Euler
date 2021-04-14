@@ -21,8 +21,8 @@ Solving [Project Euler](https://projecteuler.net/) problems in different languag
 | [14](https://projecteuler.net/problem=14) | :heavy_check_mark: |  |
 | [15](https://projecteuler.net/problem=15) |  | :heavy_check_mark: |
 | [16](https://projecteuler.net/problem=16) |  | :heavy_check_mark: |
-| [17](https://projecteuler.net/problem=17) |  |  |
-| [18](https://projecteuler.net/problem=18) |  |  |
+| [17](https://projecteuler.net/problem=17) |  | :heavy_check_mark: |
+| [18](https://projecteuler.net/problem=18)* |  | :heavy_check_mark: |
 | [19](https://projecteuler.net/problem=19) | :heavy_check_mark: |  |
 | [20](https://projecteuler.net/problem=20) | :heavy_check_mark: |  |
 | [21](https://projecteuler.net/problem=21) |  |  |
@@ -35,3 +35,5 @@ Solving [Project Euler](https://projecteuler.net/) problems in different languag
 | [28](https://projecteuler.net/problem=28) | :heavy_check_mark: |  |
 | [29](https://projecteuler.net/problem=29) | :heavy_check_mark: |  |
 | [30](https://projecteuler.net/problem=30) | :heavy_check_mark: |  |
+|  |  |  |
+| [67](https://projecteuler.net/problem=18)* |  | :heavy_check_mark: |
